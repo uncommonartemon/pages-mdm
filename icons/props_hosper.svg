@@ -1,0 +1,18 @@
+<svg width="27" height="26" viewBox="0 0 27 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 6">
+<path id="Vector 23" d="M4.88029 25.0001V21.7803M22.1352 25.0001V21.7803M1 21.4666H25.6027" stroke="white" stroke-linecap="round"/>
+<g id="Rectangle 151">
+<mask id="path-2-inside-1_588_8323" fill="white">
+<rect x="2.48633" y="12.8884" width="21.7957" height="9.08152" rx="0.61302"/>
+</mask>
+<rect x="2.48633" y="12.8884" width="21.7957" height="9.08152" rx="0.61302" stroke="white" stroke-width="2" stroke-linecap="round" mask="url(#path-2-inside-1_588_8323)"/>
+</g>
+<path id="Vector" d="M6.14355 18.9392L6.14355 17.4211" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M9.51172 18.9392L9.51172 17.4211" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M12.8799 18.9392L12.8799 17.4211" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M16.249 18.9392L16.249 17.4211" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M19.6172 18.9392L19.6172 17.4211" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 24" d="M4.63281 12.8886C5.26577 10.6044 7.86914 6.03613 13.219 6.03613C18.5688 6.03613 21.2272 10.6044 21.8877 12.8886" stroke="white" stroke-linecap="round"/>
+<path id="Rectangle 152" d="M15.2001 6.28379V1.61302C15.2001 1.27446 14.9256 1 14.5871 1H12.0154C11.6768 1 11.4023 1.27446 11.4023 1.61302V6.28379" stroke="white"/>
+</g>
+</svg>
